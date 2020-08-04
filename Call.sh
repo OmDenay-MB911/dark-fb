@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Compile by Sanz
-# Youtube : SANZ SOEKAMTI
-# Github  : https://github.com/B4N954N2-ID
+# Compile by Denay
+# Youtube : Menembus Batas 911
+# Github  : https://github.com/OmDenay-MB911
 # Note : Maaf gua compile, soalnya gua takut dibilang sombong!!
 #        sombong = dosa, makanya gua compile ^_^
 Sanz=$(mktemp)
